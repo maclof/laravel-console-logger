@@ -27,7 +27,6 @@
         "guzzlehttp/guzzle": "^6.0"
     },
     "autoload": {
-        "files": ["integrations/autoload.php"],
         "psr-4": {
             "Illuminated\\Console\\": "src/"
         }
